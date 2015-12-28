@@ -1,0 +1,12 @@
+syntax = "proto2";
+
+package proto;
+
+message Request {
+	optional int32 one = 1;
+	optional int32 two = 2;
+}
+
+message Response {
+	optional int32 sum = 1;
+}

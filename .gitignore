@@ -1,0 +1,9 @@
+main.elf
+main.hex
+pc-autogen/
+kernel/*.d
+kernel/*.o
+proto/*.pb.c
+proto/*.pb.h
+proto/*.pb.d
+proto/*.pb.o
